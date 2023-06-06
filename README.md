@@ -1,8 +1,8 @@
 ### Hi 👋, I am Berat Guven,
 #### Front-end Developer
-I enjoy learning new things, constantly improving myself, producing open source projects and contributing to them. I am also interested in making digital drawings and reading books.
 
-Check out my website for more.
+I love learning new things, constantly improving myself, solving algorithms, I've been interested in computers since childhood.
+
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
