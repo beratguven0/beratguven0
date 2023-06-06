@@ -1,7 +1,8 @@
-  <h1 align="center">Hi 👋, I'm Berat Guven</h1>
-  <h2 align="center"> - Frontend Developer - </h2>
-  <h2 align="center">- 🔭 I’m currently working on programming</h2>
-  <h2 align="center">- 🌱 I’m currently learning React Native & Node.js</h2>
+### Hi 👋, I am Berat Guven,
+#### Front-end Developer
+I enjoy learning new things, constantly improving myself, producing open source projects and contributing to them. I am also interested in making digital drawings and reading books.
+
+Check out my website for more.
 
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
