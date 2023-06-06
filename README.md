@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Berat Guven</h1>
-  <h2 align="center">Frontend Developer</h2>
+  <h2 align="center"> - Frontend Developer - </h2>
   <h2 align="center">- 🔭 I’m currently working on programming</h2>
   <h2 align="center">- 🌱 I’m currently learning React Native & Node.js</h2>
 
