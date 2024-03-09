@@ -1,2 +1,2 @@
-### Hi 👋, I am Berat Guven,
+### I am Berat Guven,
 #### Developer
